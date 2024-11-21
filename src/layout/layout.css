@@ -1,0 +1,13 @@
+.Navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.divLinks{
+  gap: 23px;
+}
+.divLinks link{
+  text-decoration: none;
+}
