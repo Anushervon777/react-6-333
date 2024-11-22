@@ -1,0 +1,146 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav h1{
+  margin-left: 50px;
+  color: rgba(29, 30, 37, 1);
+  margin-top: 50px;
+  font-size: 60px;
+  font-family: sans-serif;
+}
+body{
+  margin: 20px;
+  font-family: sans-serif;
+}
+.left{
+  width: 400px;
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 400;
+
+}
+.right img{
+
+}
+.right{
+  width: 400px;
+  font-size: 20px;
+}
+.section1{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.box1{
+  width: 33%;
+  box-shadow: 1px 50px 100px 20px rgba(247, 178, 49, 0.186);
+}
+.box2{
+  width: 33%;
+}
+.box3{
+  width: 10%;
+}
+.section2{
+  margin-top: 100px;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+button{
+  padding: 15px 30px;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  border: none;
+  margin-top: 50px;
+}
+.section3{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-top: 1px solid rgba(128, 128, 128, 0.257);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.257);
+  padding: 50px;
+}
+.left h1{
+font-size: 45px;
+}
+.section4{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section4 .left{
+  width: 50%;
+  margin-left: 100px;
+  text-align:start;
+}
+.section4 .left h1{
+font-size: 40px;
+}
+.section4 .right img{
+  width: 100%;
+}
+.box{
+  width: 26.5%;
+  padding-bottom: 20px;
+  border-radius: 3px;
+}
+.box:hover{
+  width: 26.5%;
+  transform: scale(1.03);
+  transition: 1s;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+}
+.section5{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.section6{
+  margin: 80px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer{
+  height: 400px;
+  background: rgba(29, 30, 37, 1);
+  color: white;
+}
+.left-foot1 h1{
+  font-size: 60px;
+}
+.left-foot1 p{
+  font-size: 20px;
+}
+.foot1{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px;
+  border-bottom: 1px solid gray;
+}
+.foot2_left{
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+.foot2{
+  padding: 20px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.foot2 p:hover{
+  cursor: pointer;
+  color: gray;
+}
