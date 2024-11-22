@@ -1,0 +1,26 @@
+.block4{
+  background-color: #1D1E25;
+  color: white;
+  padding: 20px;
+  margin-top: 100px;
+}
+.block4_left div{
+  width: 30%;
+  margin-left: 20%;
+}
+.block4_left p{
+  color: #EDEDED;
+}
+.block4_right div{
+  width: 30%;
+  margin-left: 15%;
+}
+.block4_right p{
+  color: #EDEDED;
+}
+.block4_div{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

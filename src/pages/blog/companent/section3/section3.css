@@ -1,0 +1,27 @@
+
+.block3{
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-top: 100px;
+}
+.block3_div1 img{
+  width: 500px;
+  height: 450px;
+}
+.block3_div1_p{
+  color: grey;
+  font-size: 15px;
+}
+.block3_div1 p{
+  color: grey;
+}
+.block3_div1{
+  margin-left: 100px;
+}
+.block3_div3{
+  position: relative;
+  top: 20px;
+  margin-left: 100px;
+}

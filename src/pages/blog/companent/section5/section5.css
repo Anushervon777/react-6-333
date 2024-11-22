@@ -1,0 +1,30 @@
+.block5_top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.block5_top_p1{
+  padding: 10px;
+  border: 1px solid grey;
+  color: grey;
+  border-radius: 50px;
+}
+.block5_top_p2{
+  padding: 10px;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+}
+.block5_bottom_div{
+  width: 24%;
+}
+.block5_bottom_div button{
+  background-color:  white;
+  border-radius: 50px;
+  border: 1px solid grey;
+  padding: 10px 30px;
+}
+.block5_bottom_divho{
+  display: flex;
+  justify-content: space-around;
+}
